@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pancono Coin (Panno)</title>
+  <style>
+    /* Reset and base */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background-color: #0b1a33; /* dark navy blue */
+      color: #ffffff;
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: #142a4c;
+      border-radius: 15px;
+      padding: 30px 40px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+
+    h1 {
+      color: #00d4ff;
+      font-size: 2em;
+      margin-bottom: 15px;
+    }
+
+    h2 {
+      color: #ffd700;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    ul {
+      margin-left: 20px;
+      margin-bottom: 15px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+    }
+
+    .buttons a {
+      flex: 1;
+      text-align: center;
+      padding: 15px 20px;
+      background: #00d4ff;
+      color: #0b1a33;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+
+    .buttons a:hover {
+      background: #00b2cc;
+      color: #ffffff;
+      transform: scale(1.05);
+    }
+
+    .highlight {
+      color: #ffd700;
+      font-weight: bold;
+    }
+
+    .small-note {
+      font-size: 0.9em;
+      color: #aaaaaa;
+      margin-top: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .buttons {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 Become a pancono partner</h1>
+  
+    <h2>✨ How to start:</h2>
+    <p>Become our partner and you will get a new Pancono Promotion Bot for promotion and free unlimited earnings in BTC, ETH, TON etc.</p>
+    
+    <p>Once you get the bot your task is simple → refer as many friends as possible by using referral link availabe at bot* to keep earning benefits. </p>
+        
+         <h2>✨ How to Join:</h2>
+    <ul>
+      <li> 1️⃣ On Telegram search for @BotFather.</li>
+       <li> 2️⃣ In there click or type /newbot to create a bot. (Example name: Pancono1Bot).</li>
+       <li> 3️⃣ Once your bot is created, copy the bot token 🔑 and send from Pancono Wallet Bot, along with your Telegram username.</li>
+       <li> To send the application, go back to main page & click ' Pancono Wallet' button. At bot find earn crypto tab and send details from there. </li>
+    </ul>
+
+    <p>  Once we receive your application 👉 We will set up a new pancono promotion bot (backend working bot) exclusively for you where you can earn and receive Pancono Coins on every referral that joins.  </p>
+    
+    <h2>✨ How to start:</h2> 
+    <p>  💰 How You Earn: 
+When any user buys Pancono Coin, we earn income. This income is shared with all free and paid plan users: </p>
+<ul>
+      <li> 👤 Partner Free Plan  → Earn 5% of total profits.</li>
+       </li>
+       <li> 👑👤 Partner Paid Plan → Earn 50% of total profits.</li>
+       
+    </ul>
+
+   
+ <p>  📢 Referral Earnings:
+ All Partners also earn Pancono Coins depending on their own referrals & global referral achievements .
+             </p>
+   
+   
+   <p>  🆓 Free Plan:
+Bot works occasionally at background → lower earnings. </p>
+   <p>  💎Paid Plan: 
+Bot works 24/7 at background  → higher earnings.
+ </p>
+
+ <h2>✨ Fees:</h2> 
+   <p>  Free Plan:
+Free for ever. </p>
+   <p>  💵 Paid Plan Fee: 
+$2/month (payable in BTC, ETH, SOL, TON). </p>
+
+    
+  
+  </div>
+</body>
+</html>
